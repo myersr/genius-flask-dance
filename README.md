@@ -33,7 +33,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ----
 ## Links and Thanks!
-[Genius.com](https://genius.com/)
-[Flask](http://flask.pocoo.org/)
-[Flask-dance's](lask-dance.readthedocs.io/en/latest)
+[Genius.com](https://genius.com/)  
+[Flask](http://flask.pocoo.org/)  
+[Flask-dance's](lask-dance.readthedocs.io/en/latest)  
 
