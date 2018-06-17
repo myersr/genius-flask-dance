@@ -6,7 +6,7 @@
 
 
 ## Code of Conduct
-This project and everyone participating in it is governed by the [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code under threat of excommunication. Please report unacceptable behavior to [roy.myers@optum.com][email] or your local law enforcement agency.
+This project and everyone participating in it is governed by the [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code under threat of excommunication. Please report unacceptable behavior to [myersrdev@gmail.com][email] or your local law enforcement agency.
 
 ## How to Contribute
 
@@ -57,4 +57,4 @@ Example guideline for a forking approach for contributions
     * :arrow_down: `:arrow_down:` when downgrading dependencies
     * :shirt: `:shirt:` when removing linter warnings
 
-[email]: mailto:roy.myers@optum.com
+[email]: mailto:myersrdev@gmail.com
